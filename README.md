@@ -8,7 +8,7 @@
 
 1. Clone the repo
 ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/prathameshbidkar98-sys/VertexMind-Mission-4.git
 ```
 
 2. Install backend dependencies
